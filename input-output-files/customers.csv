@@ -1,0 +1,151 @@
+customer_id,name,email,country,join_date,loyalty_points,is_premium,age,gender,membership_years,loyalty_level,age_group,new_customer,valid_email
+C001,Norma Fisher,ysullivan@yahoo.com,Lesotho,2023-10-31,864,False,66,Female,1.5,Gold,Senior,False,True
+C002,Susan Wagner,katelynmontgomery@yahoo.com,United States of America,2024-07-28,41,False,50,Female,0.7,Bronze,Mid-Age,False,True
+C003,Dr. Stephanie Collins,thomas15@stewart-bowman.com,Mexico,2024-05-03,414,False,48,Female,1.0,Silver,Mid-Age,False,True
+C004,Joseph Brown,cortezraymond@garrett.com,Ecuador,2023-09-10,597,True,50,Male,1.6,Silver,Mid-Age,False,True
+C005,Amy Stark,lindathomas@west.net,Venezuela,2024-05-22,288,True,66,Male,0.9,Silver,Senior,False,True
+C006,Juan Mann,tamaramorrison@hotmail.com,France,2024-03-14,633,False,52,Other,1.1,Gold,Mid-Age,False,True
+C007,Robert Stewart,ivan20@zavala.com,Turkey,2022-12-11,829,True,37,Male,2.4,Gold,Adult,False,True
+C008,Sarah Villanueva,aimee33@hotmail.com,Myanmar,2024-02-03,747,True,61,Female,1.2,Gold,Senior,False,True
+C009,Joanne Keller,nguyendarrell@hotmail.com,Niue,2023-09-25,483,True,40,Female,1.6,Silver,Adult,False,True
+C010,Dana Dennis,nathanjackson@cabrera-garcia.com,Timor-Leste,2025-04-10,323,True,53,Female,0.0,Silver,Mid-Age,True,True
+C011,Robert Walters,martinezjacob@wilson.com,Argentina,2024-11-18,453,False,21,Other,0.4,Silver,Young,True,True
+C012,Tyler Lopez,zclark@giles.net,Jamaica,2024-12-12,937,True,23,Other,0.4,Gold,Young,True,True
+C013,David Walker,ryan08@yahoo.com,Armenia,2024-11-04,860,False,63,Other,0.5,Gold,Senior,True,True
+C014,William Gonzalez,kmassey@gmail.com,Qatar,2025-03-02,640,True,57,Female,0.1,Gold,Mid-Age,True,True
+C015,Randall Kramer,matthewking@morse.biz,United Arab Emirates,2024-09-23,847,False,33,Other,0.6,Gold,Adult,False,True
+C016,Sylvia Banks,eric07@hotmail.com,Belgium,2023-09-26,333,True,30,Other,1.6,Silver,Adult,False,True
+C017,Kimberly Taylor,chelsea59@hotmail.com,Timor-Leste,2024-12-12,227,True,69,Male,0.4,Silver,Senior,True,True
+C018,Eric Goodman,wheelerholly@allen.info,Honduras,2025-03-04,822,False,23,Male,0.1,Gold,Young,True,True
+C019,Jennifer Morales,martincaleb@hotmail.com,Cayman Islands,2024-03-16,327,False,24,Female,1.1,Silver,Young,False,True
+C020,Katelyn Hoffman,simpsonlarry@williams-carson.biz,Comoros,2024-08-22,564,False,63,Male,0.7,Silver,Senior,False,True
+C021,Miss Angela Swanson DVM,nstewart@gmail.com,Saint Barthelemy,2022-04-26,560,False,70,Other,3.0,Silver,Senior,False,True
+C022,Miss Lisa Lee,joshua21@nash-sanders.com,Angola,2023-06-23,208,False,46,Male,1.8,Silver,Mid-Age,False,True
+C023,Rebecca Wilson,desireeroth@hotmail.com,Guatemala,2022-10-18,610,False,38,Other,2.5,Gold,Adult,False,True
+C024,Diana Smith,eringrant@mays-browning.com,Tanzania,2025-04-16,247,False,29,Male,0.0,Silver,Adult,True,True
+C025,Kathleen Schneider,iwatson@gmail.com,Cote d'Ivoire,2023-11-27,841,True,20,Other,1.4,Gold,Young,False,True
+C026,Alexa Hernandez,kristine15@hotmail.com,Argentina,2022-06-26,672,False,48,Male,2.8,Gold,Mid-Age,False,True
+C027,Chase Silva,ihays@yahoo.com,Brazil,2024-05-04,91,True,27,Male,1.0,Bronze,Adult,False,True
+C028,Taylor Parker,richard54@rodriguez-hoffman.info,Lebanon,2023-09-28,862,True,62,Other,1.6,Gold,Senior,False,True
+C029,Vanessa Cooper,lyonsronald@yahoo.com,Grenada,2025-03-25,699,False,63,Other,0.1,Gold,Senior,True,True
+C030,Tamara Sims,joneschristopher@hotmail.com,Cyprus,2022-07-27,282,True,31,Other,2.7,Silver,Adult,False,True
+C031,Brent Hawkins,ymora@hotmail.com,Rwanda,2025-03-13,603,False,55,Female,0.1,Gold,Mid-Age,True,True
+C032,Bradley Robinson,ryanhoward@gmail.com,Swaziland,2025-04-17,461,False,60,Other,0.0,Silver,Mid-Age,True,True
+C033,Joseph Goodwin,crawfordjonathan@williams.com,Bosnia and Herzegovina,2023-02-24,717,False,23,Female,2.2,Gold,Young,False,True
+C034,Isaiah Wilcox,zhernandez@frazier.com,Syrian Arab Republic,2024-06-05,627,True,49,Other,0.9,Gold,Mid-Age,False,True
+C035,Miss Shelly Daniels DVM,janice55@warren.org,Slovenia,2022-12-21,645,False,30,Male,2.3,Gold,Adult,False,True
+C036,Lauren Robbins,marshzachary@gmail.com,Bahrain,2023-04-07,16,False,25,Other,2.0,Bronze,Young,False,True
+C037,Eric Blake,michelle27@yahoo.com,Macedonia,2023-12-07,225,False,68,Male,1.4,Silver,Senior,False,True
+C038,Kathryn Berry,nbullock@nichols-george.info,Tanzania,2023-12-17,340,False,70,Male,1.4,Silver,Senior,False,True
+C039,Cynthia Hancock,yangkevin@scott.com,Sierra Leone,2024-01-16,103,True,62,Male,1.3,Bronze,Senior,False,True
+C040,James Martin,justingreer@mcmahon.biz,Cambodia,2024-05-26,46,True,19,Male,0.9,Bronze,Young,False,True
+C041,Lindsay Miller,robert97@ellis-garcia.com,Angola,2022-06-12,650,True,56,Other,2.9,Gold,Mid-Age,False,True
+C042,Brandi Nguyen,patrickfrank@yahoo.com,Bouvet Island (Bouvetoya),2022-07-25,122,False,23,Female,2.7,Bronze,Young,False,True
+C043,Julie Chen,montesjennifer@yahoo.com,Solomon Islands,2022-11-06,853,True,20,Other,2.5,Gold,Young,False,True
+C044,Jasmine Carter,benjaminmyers@sherman-gibson.com,Zimbabwe,2022-07-01,22,True,29,Other,2.8,Bronze,Adult,False,True
+C045,Amanda Scott,jerryfrank@chan.com,Yemen,2022-10-16,126,False,31,Other,2.5,Bronze,Adult,False,True
+C046,Steven Henderson,perrycory@navarro.info,Jersey,2025-03-24,819,True,61,Male,0.1,Gold,Senior,True,True
+C047,Jonathan Shields,christian11@yahoo.com,Puerto Rico,2022-06-07,557,False,57,Male,2.9,Silver,Mid-Age,False,True
+C048,Christopher Greer,chad23@harris.com,San Marino,2022-05-04,855,False,22,Male,3.0,Gold,Young,False,True
+C049,Michael Cantu,jacobrodriguez@zimmerman-scott.com,Cote d'Ivoire,2023-11-06,73,False,40,Female,1.5,Bronze,Adult,False,True
+C050,Tyler Phillips,brittanymiller@hotmail.com,Morocco,2023-08-14,184,True,50,Female,1.7,Bronze,Mid-Age,False,True
+C051,Steven Bautista,william32@watson-alvarado.com,Nepal,2022-05-24,40,True,62,Female,2.9,Bronze,Senior,False,True
+C052,Michael Anderson,jyang@hotmail.com,Jamaica,2023-07-29,204,False,40,Other,1.7,Silver,Adult,False,True
+C053,Angela Wallace,bennettalan@hotmail.com,United Arab Emirates,2023-09-03,481,True,62,Other,1.6,Silver,Senior,False,True
+C054,Jacob Farley,laurahill@jacobs.biz,Colombia,2024-02-07,208,True,68,Other,1.2,Silver,Senior,False,True
+C055,David Chavez,steven17@phillips.info,Nicaragua,2024-04-09,162,True,39,Other,1.0,Bronze,Adult,False,True
+C056,Edwin Mack,rogerpotter@gmail.com,Philippines,2024-06-04,256,True,56,Female,0.9,Silver,Mid-Age,False,True
+C057,Crystal Gill,martineznicole@gmail.com,Afghanistan,2023-05-26,681,True,18,Female,1.9,Gold,Young,False,True
+C058,Steve Mckinney,francismichael@hotmail.com,United States of America,2023-02-21,697,False,54,Other,2.2,Gold,Mid-Age,False,True
+C059,Amanda Sparks,david32@gmail.com,Israel,2023-07-17,939,False,59,Female,1.8,Gold,Mid-Age,False,True
+C060,Chad Mills,jenkinscynthia@figueroa-strong.com,French Guiana,2024-03-10,397,False,27,Other,1.1,Silver,Adult,False,True
+C061,Mark Moore,dmorales@castro.com,Niue,2024-04-26,707,True,47,Other,1.0,Gold,Mid-Age,False,True
+C062,Claudia Burns,dpearson@yahoo.com,French Southern Territories,2022-11-30,80,False,65,Male,2.4,Bronze,Senior,False,True
+C063,Amy Howell,thomas08@mcdaniel.biz,Albania,2023-11-05,557,False,26,Male,1.5,Silver,Adult,False,True
+C064,Marc Key,donaldberry@gmail.com,Bosnia and Herzegovina,2024-02-26,780,False,40,Other,1.2,Gold,Adult,False,True
+C065,Gary Jackson,thernandez@gmail.com,Mali,2023-08-27,294,False,55,Other,1.7,Silver,Mid-Age,False,True
+C066,Thomas Wallace,yroman@hotmail.com,Cyprus,2023-02-21,874,True,63,Female,2.2,Gold,Senior,False,True
+C067,Dan Mckinney,youngchristopher@gmail.com,Haiti,2022-07-20,397,False,59,Male,2.8,Silver,Mid-Age,False,True
+C068,Megan Hall,bushwilliam@yahoo.com,Sierra Leone,2023-10-23,1,True,62,Female,1.5,Bronze,Senior,False,True
+C069,Anthony Terry,thenry@yahoo.com,Cuba,2023-09-28,163,True,32,Other,1.6,Bronze,Adult,False,True
+C070,Andrew Martin,diamond21@becker-arellano.biz,Micronesia,2023-04-01,458,False,63,Other,2.1,Silver,Senior,False,True
+C071,Gerald Garcia,marcus75@johnson-williams.com,Belgium,2023-03-14,581,False,20,Female,2.1,Silver,Young,False,True
+C072,Haley Hood,larry64@yahoo.com,Guatemala,2023-04-30,892,False,67,Other,2.0,Gold,Senior,False,True
+C073,Timothy Jones,dhardy@yahoo.com,Lithuania,2024-04-07,726,True,28,Female,1.0,Gold,Adult,False,True
+C074,Bradley Allen,nhenson@salazar-meyers.net,Saudi Arabia,2023-12-26,65,False,62,Male,1.3,Bronze,Senior,False,True
+C075,Christopher Burns,sarah56@hawkins.org,Mauritania,2023-03-01,457,False,53,Other,2.1,Silver,Mid-Age,False,True
+C076,Paula Palmer,joseph01@hotmail.com,Slovenia,2022-09-23,773,True,20,Female,2.6,Gold,Young,False,True
+C077,Jason Robinson,htrevino@brewer-wilson.org,Guinea-Bissau,2023-04-14,333,False,47,Male,2.0,Silver,Mid-Age,False,True
+C078,Michele Guerrero,calvinparker@hall-fuller.com,Mozambique,2023-01-14,828,False,30,Other,2.3,Gold,Adult,False,True
+C079,Alan Wagner,burnettnatalie@gmail.com,Christmas Island,2024-06-23,986,True,64,Male,0.8,Gold,Senior,False,True
+C080,Brandy Clark DVM,joeanderson@gmail.com,Senegal,2023-12-11,15,False,61,Female,1.4,Bronze,Senior,False,True
+C081,Kevin Fuller,foxmichael@parker-benjamin.net,Palau,2023-01-01,323,True,31,Male,2.3,Silver,Adult,False,True
+C082,Kathleen Ashley,janet14@gmail.com,Netherlands Antilles,2024-01-07,734,True,70,Other,1.3,Gold,Senior,False,True
+C083,Samantha Floyd,clarkleslie@hotmail.com,Egypt,2023-10-08,541,True,30,Male,1.5,Silver,Adult,False,True
+C084,Mary Keller,max24@kelly.com,Saint Martin,2024-12-27,622,True,37,Female,0.3,Gold,Adult,True,True
+C085,Alex Burton,bradyperez@murphy.biz,Burkina Faso,2023-03-25,705,True,24,Female,2.1,Gold,Young,False,True
+C086,Charles Collins,areyes@yahoo.com,Marshall Islands,2024-07-26,874,False,58,Male,0.7,Gold,Mid-Age,False,True
+C087,Veronica Bush,ortizpeter@mason.net,Tajikistan,2025-04-13,22,False,46,Male,0.0,Bronze,Mid-Age,True,True
+C088,Gary Larsen,sonyafrye@newton.net,Chile,2022-08-22,882,False,26,Other,2.7,Gold,Adult,False,True
+C089,Sean Garcia,christinawilliams@yahoo.com,Sri Lanka,2023-11-28,533,False,25,Male,1.4,Silver,Young,False,True
+C090,Timothy Johnson,kelly27@romero.biz,Guadeloupe,2023-06-16,285,True,20,Male,1.9,Silver,Young,False,True
+C091,Terry Smith,xmadden@hotmail.com,Montenegro,2024-08-27,210,False,53,Female,0.7,Silver,Mid-Age,False,True
+C092,Michael Bryant,dreed@nelson.com,Pitcairn Islands,2025-03-14,969,False,54,Male,0.1,Gold,Mid-Age,True,True
+C093,Patty Roberts,paul43@knight.com,Myanmar,2025-03-04,866,False,63,Other,0.1,Gold,Senior,True,True
+C094,Melanie Gomez,meghan09@cunningham.com,French Guiana,2024-12-20,924,False,58,Female,0.3,Gold,Mid-Age,True,True
+C095,Johnny Powell,aarontaylor@gmail.com,Kenya,2022-11-04,381,True,31,Female,2.5,Silver,Adult,False,True
+C096,Adam Griffith,chadboyle@yahoo.com,Zambia,2023-01-18,601,False,18,Male,2.3,Gold,Young,False,True
+C097,Amy Fowler,rfischer@mitchell-patterson.com,Yemen,2023-05-29,154,False,39,Female,1.9,Bronze,Adult,False,True
+C098,Kristen Branch,amoody@moore.org,Hungary,2023-11-04,808,False,63,Male,1.5,Gold,Senior,False,True
+C099,Andrew Gaines,coxtina@frazier.com,Nigeria,2025-04-14,346,True,20,Female,0.0,Silver,Young,True,True
+C100,Nicholas Wright PhD,sierrahouse@gmail.com,Montenegro,2024-03-19,167,True,55,Female,1.1,Bronze,Mid-Age,False,True
+C101,Miguel Shields,frankmclean@walters-shepard.com,Jordan,2023-10-28,369,False,53,Male,1.5,Silver,Mid-Age,False,True
+C102,Ann Johnson,james66@rowe-garrett.biz,Qatar,2022-06-21,300,True,48,Other,2.8,Silver,Mid-Age,False,True
+C103,Heather Carroll,lynn67@hotmail.com,Burkina Faso,2022-06-26,245,True,37,Male,2.8,Silver,Adult,False,True
+C104,Sean Ward,jenniferpowers@williams-hebert.com,Germany,2023-12-23,877,True,37,Female,1.3,Gold,Adult,False,True
+C105,Victoria Hubbard,mlambert@gmail.com,Iraq,2023-08-11,855,False,37,Female,1.7,Gold,Adult,False,True
+C106,Carla Orozco,blairapril@hotmail.com,Portugal,2025-04-10,111,True,53,Female,0.0,Bronze,Mid-Age,True,True
+C107,Tiffany Cooper,castrolisa@mcbride.com,Slovenia,2023-05-30,485,False,69,Female,1.9,Silver,Senior,False,True
+C108,Joyce Kent,benjaminrichards@hotmail.com,Malawi,2022-06-14,127,False,25,Other,2.9,Bronze,Young,False,True
+C109,Emily Arroyo,zcarr@boyd-mckinney.com,Lebanon,2024-09-02,509,False,20,Female,0.6,Silver,Young,False,True
+C110,Bradley Holmes,garciacathy@hayes.com,Burkina Faso,2023-08-28,343,True,28,Other,1.7,Silver,Adult,False,True
+C111,Catherine Martinez,bradleybrewer@hotmail.com,Georgia,2023-12-19,578,False,69,Other,1.3,Silver,Senior,False,True
+C112,Lindsay Bauer,samantha16@alexander.org,Saudi Arabia,2023-05-25,89,True,69,Male,1.9,Bronze,Senior,False,True
+C113,Kristine Lara,anthonylang@gmail.com,Zambia,2023-12-16,202,True,21,Female,1.4,Silver,Young,False,True
+C114,Brent Johnson,richardvaughn@morris.info,Lebanon,2022-08-25,8,True,43,Other,2.7,Bronze,Adult,False,True
+C115,Kimberly Morales,wongcody@gmail.com,Grenada,2023-10-31,531,False,46,Female,1.5,Silver,Mid-Age,False,True
+C116,Kaitlin Johnson,smithmatthew@hotmail.com,Qatar,2022-12-07,807,True,45,Male,2.4,Gold,Adult,False,True
+C117,Richard Moore,sonya76@perez.com,Greenland,2023-01-12,377,True,34,Other,2.3,Silver,Adult,False,True
+C118,Heather Martin,kcox@gmail.com,Hungary,2024-09-16,795,True,45,Male,0.6,Gold,Adult,False,True
+C119,Carla Silva,zoesmith@yahoo.com,Madagascar,2022-04-28,367,True,22,Other,3.0,Silver,Young,False,True
+C120,Richard Rodriguez,emilyjames@barnes.com,Rwanda,2023-05-13,28,False,66,Other,1.9,Bronze,Senior,False,True
+C121,Helen Robinson,andersonashlee@yahoo.com,Bhutan,2024-02-22,206,True,49,Female,1.2,Silver,Mid-Age,False,True
+C122,Danielle James,deannasanders@hotmail.com,Bangladesh,2023-05-20,262,True,59,Male,1.9,Silver,Mid-Age,False,True
+C123,Dr. Jacqueline Johnson DDS,joshuacarr@yahoo.com,Nigeria,2022-10-05,970,True,57,Male,2.6,Gold,Mid-Age,False,True
+C124,Sarah Thomas,saundersjessica@yahoo.com,Jersey,2022-10-02,107,True,47,Female,2.6,Bronze,Mid-Age,False,True
+C125,Lindsey Martin,ljenkins@yahoo.com,Serbia,2024-06-13,370,True,24,Other,0.9,Silver,Young,False,True
+C126,Jacob Thomas,wmccoy@gmail.com,Congo,2023-05-28,499,True,54,Female,1.9,Silver,Mid-Age,False,True
+C127,Kevin Phillips,andrea06@brooks-clark.com,Bulgaria,2022-10-11,653,False,51,Female,2.5,Gold,Mid-Age,False,True
+C128,Carol Jordan,tjones@hotmail.com,Pitcairn Islands,2022-08-21,695,False,49,Female,2.7,Gold,Mid-Age,False,True
+C129,Kimberly Spencer,jaredperez@taylor.org,Saint Pierre and Miquelon,2023-07-14,650,True,52,Other,1.8,Gold,Mid-Age,False,True
+C130,Frances Wilson,rachel58@yahoo.com,Marshall Islands,2025-04-06,953,True,18,Female,0.0,Gold,Young,True,True
+C131,James Singh,nicoleriddle@yahoo.com,Iceland,2024-04-24,722,False,70,Female,1.0,Gold,Senior,False,True
+C132,Traci Forbes,dylansilva@bush.com,Nauru,2025-01-17,36,True,34,Other,0.3,Bronze,Adult,True,True
+C133,Kayla Adams,cmiller@wilson.info,Ghana,2022-10-07,802,True,42,Other,2.5,Gold,Adult,False,True
+C134,Jackie Horton,sandrahoffman@gmail.com,Slovakia (Slovak Republic),2024-06-20,301,False,22,Male,0.8,Silver,Young,False,True
+C135,Carol Carey,nfranklin@erickson-sullivan.com,Myanmar,2022-11-17,528,True,22,Male,2.4,Silver,Young,False,True
+C136,Carolyn Alexander,fnoble@chapman.info,Armenia,2024-05-07,133,True,37,Male,1.0,Bronze,Adult,False,True
+C137,Debra Romero,obaker@hotmail.com,Haiti,2022-12-26,777,False,39,Male,2.3,Gold,Adult,False,True
+C138,Lee Rangel,riverstimothy@hotmail.com,Zambia,2024-01-19,819,True,59,Female,1.3,Gold,Mid-Age,False,True
+C139,Deborah Hall,donald12@shields.net,Congo,2022-05-03,991,False,50,Female,3.0,Gold,Mid-Age,False,True
+C140,Jared Lyons,velazquezanita@yahoo.com,Tunisia,2022-09-21,922,True,54,Male,2.6,Gold,Mid-Age,False,True
+C141,Dana Jimenez,jeffrey75@hotmail.com,Vanuatu,2023-10-04,694,True,65,Female,1.6,Gold,Senior,False,True
+C142,Eric Henderson,jvalencia@gmail.com,France,2023-02-26,927,True,36,Other,2.2,Gold,Adult,False,True
+C143,Karen Gilmore,patrick21@yahoo.com,Guinea,2024-06-08,922,False,70,Female,0.9,Gold,Senior,False,True
+C144,Crystal Fletcher,zramirez@hotmail.com,Finland,2022-10-03,865,False,56,Other,2.6,Gold,Mid-Age,False,True
+C145,Eddie Griffin,juliaspears@yahoo.com,Luxembourg,2023-04-13,239,True,60,Male,2.0,Silver,Mid-Age,False,True
+C146,James Price,emmashaw@yahoo.com,Djibouti,2023-08-24,758,True,37,Other,1.7,Gold,Adult,False,True
+C147,April Ruiz,lorireynolds@gmail.com,Montserrat,2022-06-24,583,False,39,Male,2.8,Silver,Adult,False,True
+C148,Dennis Swanson,whiteholly@hall.com,Hong Kong,2024-07-31,505,False,70,Female,0.7,Silver,Senior,False,True
+C149,Bruce Jacobs,figueroajames@meyer.biz,Bangladesh,2024-08-04,791,False,42,Female,0.7,Gold,Adult,False,True
+C150,David Hebert,baguirre@gmail.com,Hong Kong,2022-06-25,63,True,59,Male,2.8,Bronze,Mid-Age,False,True

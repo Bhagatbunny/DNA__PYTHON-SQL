@@ -1,0 +1,151 @@
+product_id,product_name,category,price,in_stock,added_date,discount_percent,brand
+P001,Power Max,Home & Kitchen,147.24,171,2023-11-18,,Sony
+P002,Air Lite,Books,32.48,455,2024-07-18,21.52,Apple
+P003,Hand Plus,Books,11.86,238,2024-10-20,1.41,Philips
+P004,Hold Max,Electronics,11.33,316,2025-01-24,,Puma
+P005,Green Pro,Toys,131.55,99,2024-09-29,23.29,Philips
+P006,Long Pro,Electronics,123.97,239,2024-09-01,28.02,Samsung
+P007,Center Plus,Apparel,191.9,198,2024-07-28,27.51,Samsung
+P008,Nation Max,Electronics,157.51,227,2023-07-03,5.71,Puma
+P009,Enter Pro,Electronics,180.88,20,2023-07-12,27.03,Nike
+P010,Send Max,Electronics,156.39,452,2023-07-12,23.38,Levi’s
+P011,Explain Plus,Electronics,33.41,456,2023-05-11,27.69,Samsung
+P012,Role Lite,Electronics,24.35,396,2023-08-11,,Sony
+P013,Pressure Lite,Books,138.85,15,2024-12-12,25.92,Puma
+P014,Reason Plus,Electronics,73.74,62,2023-08-06,0.88,Puma
+P015,Hundred Max,Electronics,166.9,118,2023-09-30,2.12,Apple
+P016,Page Max,Electronics,44.93,344,2024-09-16,27.03,Sony
+P017,Front Plus,Home & Kitchen,139.45,477,2023-09-26,25.78,Apple
+P018,Know Lite,Electronics,97.96,362,2024-05-21,3.9,Nike
+P019,Month Plus,Home & Kitchen,97.31,149,2023-07-25,26.35,Puma
+P020,Opportunity Max,Toys,198.63,52,2023-07-13,9.23,Levi’s
+P021,Room Max,Apparel,161.86,161,2025-03-30,7.1,Apple
+P022,May Plus,Home & Kitchen,86.86,23,2023-07-28,18.04,Levi’s
+P023,Mr Pro,Electronics,30.74,153,2025-03-16,22.23,Apple
+P024,Line Lite,Home & Kitchen,129.21,43,2024-04-21,18.98,Sony
+P025,Could Lite,Books,6.64,492,2024-04-10,9.62,Nike
+P026,Officer Plus,Home & Kitchen,190.71,46,2024-01-11,23.9,Adidas
+P027,Career Pro,Toys,123.08,78,2024-03-11,13.38,Levi’s
+P028,Environmental Max,Books,89.18,126,2024-02-10,10.21,Apple
+P029,Bar Plus,Books,128.15,44,2024-07-04,6.11,Sony
+P030,Mouth Lite,Toys,95.09,111,2024-01-08,23.06,Adidas
+P031,Ten Max,Books,142.73,241,2025-01-20,,Philips
+P032,Travel Max,Toys,153.59,143,2023-10-21,0.65,Adidas
+P033,Long Pro,Electronics,55.03,269,2023-11-01,21.3,Philips
+P034,Have Pro,Home & Kitchen,74.0,446,2024-04-30,27.26,Samsung
+P035,Stage Pro,Electronics,159.49,156,2025-04-18,3.55,Nike
+P036,Item Max,Electronics,85.89,148,2023-05-11,4.03,Nike
+P037,Likely Pro,Books,191.35,278,2024-11-04,23.36,Adidas
+P038,View Plus,Books,77.5,321,2023-04-27,,Samsung
+P039,Old Pro,Books,83.24,239,2024-03-02,,Adidas
+P040,South Plus,Books,149.76,111,2024-12-15,20.84,Puma
+P041,Like Lite,Electronics,91.58,73,2023-10-13,1.57,Nike
+P042,Laugh Pro,Home & Kitchen,96.95,454,2023-10-27,25.39,Samsung
+P043,Environment Pro,Books,6.25,21,2024-04-27,,Sony
+P044,May Plus,Home & Kitchen,146.78,116,2023-08-10,,Adidas
+P045,Drive Max,Electronics,89.63,366,2024-03-30,5.05,Levi’s
+P046,Federal Lite,Apparel,92.22,362,2024-01-27,,Puma
+P047,Read Max,Apparel,182.53,227,2024-05-04,29.5,Levi’s
+P048,Place Lite,Books,147.31,407,2025-04-15,,Nike
+P049,Woman Pro,Books,11.49,324,2023-08-16,,Apple
+P050,Theory Plus,Electronics,149.92,346,2024-06-01,,Adidas
+P051,Return Pro,Toys,151.54,394,2023-06-30,10.59,Philips
+P052,Cup Pro,Toys,134.8,332,2023-12-11,27.89,Levi’s
+P053,Worker Lite,Books,54.68,243,2024-05-29,7.98,Sony
+P054,Program Pro,Apparel,73.21,148,2024-09-26,4.21,Levi’s
+P055,Can Max,Toys,82.32,471,2023-06-07,5.79,Samsung
+P056,Clear Pro,Home & Kitchen,67.97,233,2024-01-14,7.66,Sony
+P057,Although Max,Home & Kitchen,20.62,445,2024-01-07,5.63,Nike
+P058,True Plus,Home & Kitchen,65.89,440,2024-08-17,14.46,Nike
+P059,Support Pro,Home & Kitchen,187.17,37,2023-08-25,,Philips
+P060,Space Lite,Electronics,183.84,211,2025-03-22,13.82,Samsung
+P061,Management Pro,Electronics,52.02,423,2024-02-20,12.42,Nike
+P062,Resource Lite,Toys,20.04,218,2023-09-15,26.6,Levi’s
+P063,Its Pro,Apparel,53.7,112,2024-05-12,,Adidas
+P064,Dark Plus,Home & Kitchen,198.96,54,2023-08-31,8.57,Nike
+P065,Include Plus,Books,105.24,236,2023-05-29,7.83,Nike
+P066,Stop Pro,Electronics,124.9,364,2025-01-04,,Levi’s
+P067,Sport Max,Apparel,60.49,376,2024-01-11,0.19,Levi’s
+P068,Very Pro,Electronics,80.02,139,2024-12-03,,Puma
+P069,Rest Max,Toys,133.82,113,2025-01-26,27.05,Samsung
+P070,Near Plus,Home & Kitchen,50.55,321,2023-09-15,17.46,Apple
+P071,Shake Pro,Toys,103.45,187,2024-01-02,0.76,Apple
+P072,Cover Lite,Apparel,195.27,261,2024-05-30,4.07,Nike
+P073,Wind Lite,Toys,154.61,496,2024-06-17,21.98,Nike
+P074,Seem Lite,Home & Kitchen,123.66,67,2025-02-12,27.02,Samsung
+P075,Phone Pro,Toys,121.24,250,2024-07-18,0.38,Nike
+P076,Leader Max,Books,162.8,377,2023-08-19,9.42,Samsung
+P077,Property Plus,Apparel,122.84,360,2024-10-08,,Puma
+P078,Prepare Plus,Books,189.04,106,2024-05-10,,Nike
+P079,Way Plus,Books,135.34,337,2024-09-19,7.8,Apple
+P080,Own Plus,Electronics,74.49,276,2025-04-13,,Apple
+P081,Different Plus,Electronics,100.77,31,2024-07-30,,Sony
+P082,Let Pro,Apparel,189.38,167,2023-05-18,,Sony
+P083,Eight Plus,Books,31.49,472,2024-05-05,13.06,Puma
+P084,West Plus,Apparel,131.57,372,2024-08-04,22.42,Levi’s
+P085,Threat Pro,Books,178.73,273,2023-12-25,22.07,Philips
+P086,Only Pro,Toys,184.69,209,2024-11-10,5.14,Apple
+P087,Debate Max,Electronics,69.36,430,2023-04-23,5.29,Sony
+P088,Animal Max,Toys,37.82,40,2023-06-10,25.94,Samsung
+P089,Center Lite,Apparel,124.91,20,2023-10-28,24.18,Levi’s
+P090,Level Pro,Electronics,101.79,183,2025-03-01,4.52,Nike
+P091,Represent Plus,Apparel,148.42,207,2024-08-08,24.1,Levi’s
+P092,Door Pro,Home & Kitchen,108.42,147,2024-09-17,29.32,Adidas
+P093,Return Pro,Books,82.04,61,2023-07-16,14.88,Sony
+P094,Training Plus,Electronics,54.51,348,2024-12-01,23.28,Adidas
+P095,Name Max,Toys,105.67,197,2024-03-18,29.16,Nike
+P096,Window Pro,Toys,196.44,412,2024-09-05,27.74,Puma
+P097,Protect Max,Apparel,69.48,382,2023-12-01,17.55,Sony
+P098,Value Max,Home & Kitchen,75.82,320,2024-10-04,14.85,Levi’s
+P099,Ground Lite,Apparel,5.2,72,2024-05-10,13.26,Puma
+P100,Reveal Pro,Books,182.43,340,2023-09-19,23.36,Nike
+P101,Common Pro,Toys,187.54,142,2024-02-06,5.22,Apple
+P102,Onto Pro,Apparel,118.04,482,2025-02-05,23.9,Levi’s
+P103,Heavy Lite,Home & Kitchen,65.72,6,2024-10-31,29.73,Adidas
+P104,Left Plus,Toys,107.82,162,2024-02-20,5.7,Levi’s
+P105,Leg Max,Electronics,151.26,79,2024-09-19,21.04,Levi’s
+P106,Friend Plus,Books,190.16,287,2025-02-08,19.1,Nike
+P107,Management Pro,Home & Kitchen,108.17,481,2023-06-14,,Nike
+P108,Choice Plus,Books,8.73,376,2023-10-10,26.75,Adidas
+P109,Somebody Max,Books,20.2,229,2023-07-20,21.41,Samsung
+P110,Society Max,Apparel,90.9,33,2023-08-21,19.04,Adidas
+P111,Would Plus,Books,176.95,396,2024-02-23,9.83,Adidas
+P112,Majority Pro,Books,7.14,128,2024-10-23,11.94,Levi’s
+P113,Now Lite,Electronics,118.62,181,2023-10-03,3.8,Adidas
+P114,Wait Plus,Electronics,82.63,471,2024-02-02,1.25,Puma
+P115,Sea Plus,Electronics,18.53,367,2023-05-29,,Philips
+P116,Against Pro,Home & Kitchen,185.99,432,2024-03-03,0.76,Levi’s
+P117,Despite Max,Home & Kitchen,84.25,72,2023-06-30,12.13,Adidas
+P118,Too Pro,Apparel,29.45,68,2024-03-08,21.16,Sony
+P119,Pay Pro,Toys,139.78,357,2024-07-08,28.49,Puma
+P120,Tv Pro,Electronics,114.16,416,2024-12-27,24.01,Puma
+P121,Its Plus,Home & Kitchen,105.9,233,2024-06-16,4.66,Philips
+P122,Develop Max,Electronics,128.35,90,2024-08-26,1.01,Puma
+P123,Above Pro,Apparel,131.44,233,2024-09-23,24.37,Apple
+P124,Century Plus,Apparel,97.91,284,2024-06-08,,Samsung
+P125,Question Plus,Electronics,163.53,40,2025-03-27,,Puma
+P126,Might Lite,Home & Kitchen,167.53,262,2023-12-18,25.24,Samsung
+P127,Husband Max,Home & Kitchen,185.48,93,2024-06-18,0.58,Nike
+P128,Note Pro,Books,130.85,357,2023-06-13,11.69,Sony
+P129,Bar Max,Home & Kitchen,184.09,474,2024-08-04,,Sony
+P130,Side Lite,Home & Kitchen,122.81,317,2024-05-09,20.17,Philips
+P131,Soldier Lite,Apparel,10.98,410,2023-05-04,28.48,Samsung
+P132,Democrat Plus,Electronics,29.06,179,2024-03-13,,Levi’s
+P133,Practice Pro,Home & Kitchen,94.01,283,2024-12-01,20.85,Philips
+P134,Here Pro,Electronics,109.44,205,2023-12-21,25.75,Adidas
+P135,Because Pro,Toys,23.67,423,2024-11-21,,Puma
+P136,Agency Pro,Books,193.79,78,2024-12-09,18.77,Adidas
+P137,System Pro,Electronics,78.45,80,2023-10-25,20.88,Apple
+P138,Positive Max,Apparel,129.82,124,2025-02-23,28.02,Puma
+P139,Ahead Pro,Books,191.92,320,2024-07-22,1.33,Nike
+P140,Treat Plus,Home & Kitchen,38.15,121,2024-05-25,4.91,Levi’s
+P141,Hold Lite,Home & Kitchen,175.92,70,2023-08-20,23.12,Apple
+P142,Make Pro,Books,145.1,88,2023-11-09,0.59,Puma
+P143,Break Pro,Electronics,14.21,473,2024-07-26,,Apple
+P144,Likely Max,Books,158.6,214,2023-11-25,27.41,Puma
+P145,Unit Max,Apparel,75.99,110,2025-02-02,2.19,Levi’s
+P146,Discuss Plus,Electronics,89.15,223,2024-02-14,11.45,Levi’s
+P147,If Max,Books,82.43,297,2024-11-22,,Adidas
+P148,Move Plus,Toys,77.5,11,2025-04-12,23.39,Nike
+P149,Group Plus,Electronics,124.14,444,2023-10-17,28.92,Samsung
+P150,Than Pro,Apparel,144.13,13,2024-07-24,21.93,Levi’s

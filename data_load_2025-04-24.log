@@ -1,0 +1,25 @@
+2025-04-24 11:31:25,820 - INFO  - data_load - ------------ starting data load process ------------
+2025-04-24 11:31:25,820 - INFO  - data_load - Creating Database connection...
+2025-04-24 11:31:25,950 - INFO  - data_load - Database connection successful.
+2025-04-24 11:31:25,950 - INFO  - data_load - Loading file: customers.csv
+2025-04-24 11:31:25,968 - INFO  - data_load - customers: Raw data row count = 150
+2025-04-24 11:31:25,997 - INFO  - data_load - File saved: C:/Users/bhagh/Downloads/customers_transformed.csv
+2025-04-24 11:31:25,999 - INFO  - data_load - Truncating and loading data to: dna.customers
+2025-04-24 11:31:26,007 - INFO  - data_load - Truncated table: dna.customers
+2025-04-24 11:31:26,064 - INFO  - data_load - Inserted 150 rows into dna.customers
+2025-04-24 11:31:26,064 - INFO  - data_load - Data transfer successful for dna.customers: 150 rows inserted.
+2025-04-24 11:31:26,064 - INFO  - data_load - Loading file: products.csv
+2025-04-24 11:31:26,064 - INFO  - data_load - products: Raw data row count = 150
+2025-04-24 11:31:26,076 - INFO  - data_load - File saved: C:/Users/bhagh/Downloads/products_transformed.csv
+2025-04-24 11:31:26,076 - INFO  - data_load - Truncating and loading data to: dna.products
+2025-04-24 11:31:26,085 - INFO  - data_load - Truncated table: dna.products
+2025-04-24 11:31:26,113 - INFO  - data_load - Inserted 150 rows into dna.products
+2025-04-24 11:31:26,113 - INFO  - data_load - Data transfer successful for dna.products: 150 rows inserted.
+2025-04-24 11:31:26,113 - INFO  - data_load - Loading file: orders.csv
+2025-04-24 11:31:26,117 - INFO  - data_load - orders: Raw data row count = 150
+2025-04-24 11:31:26,127 - INFO  - data_load - File saved: C:/Users/bhagh/Downloads/orders_transformed.csv
+2025-04-24 11:31:26,129 - INFO  - data_load - Truncating and loading data to: dna.orders
+2025-04-24 11:31:26,131 - INFO  - data_load - Truncated table: dna.orders
+2025-04-24 11:31:26,155 - INFO  - data_load - Inserted 150 rows into dna.orders
+2025-04-24 11:31:26,155 - INFO  - data_load - Data transfer successful for dna.orders: 150 rows inserted.
+2025-04-24 11:31:26,171 - INFO  - data_load - ------------ data load process completed ------------
